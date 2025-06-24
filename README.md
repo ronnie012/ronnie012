@@ -1,4 +1,5 @@
-![Banner Image](./github-banner-image-sharful-012.png)
+<img src="./github-banner-image-sharful-012.png" alt="Banner Image" width="1200" height="360">
+<!-- ![Banner Image](./github-banner-image-sharful-012.png) -->
 
 ## Hi there, I am Sharful, a Front-End Web Developer. 👋
 As a highly motivated, keen, and adaptable Front-End Web Developer with proven ability in building interactive web experiences using React and modern tooling, I am seeking an opportunity to apply my skills, learn from experienced professionals, and contribute to innovative projects in a growth-oriented company.
