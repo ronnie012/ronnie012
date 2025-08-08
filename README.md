@@ -1,4 +1,4 @@
-<img src="./github-banner-image-sharful-012.png" alt="Banner Image" width="1200" height="200">
+<img src="./github-banner-image-sharful-012-v.1.1.png" alt="Banner Image" width="1200" height="200">
 <!-- ![Banner Image](./github-banner-image-sharful-012.png) -->
 
 # 👋 About Me
