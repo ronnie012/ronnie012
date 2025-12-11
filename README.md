@@ -11,7 +11,7 @@ Database: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=fl
 Tools: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) [![Thunder Client](https://img.shields.io/badge/Thunder%20Client-4B5EAA?style=flat&logoColor=white)](https://www.thunderclient.io/)
 # 🌱 Current Activities 
 🎯 I am exploring Next.js.  <br>
-💻 I am working on a tourism website ([TourZen](https://tour-zen-012-upgraded.web.app)).  <br>
+💻 I am working on a wellness website ([WellnessForge](https://wellness-forge-client.vercel.app/)).  <br>
 👯 Actively learning and building modern Full Stack MERN Projects. <br>
 ⚡ Exploring, adapting, and implementing the fast-changing tech in projects as required.
 
